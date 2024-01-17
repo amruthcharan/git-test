@@ -1,7 +1,6 @@
 # Test Project
 ## first commit
-### second commit
 
-- list options
+### list options
 - first
 - second
